@@ -4,5 +4,5 @@
 2 - Add the following code to your theme
 
 
-<?php
-if(function_exists('lacni_whatsapp_message')) {lacni_whatsapp_message();}?>
+// Add */ <?php
+if(function_exists('lacni_whatsapp_message')) {lacni_whatsapp_message();}?> */
